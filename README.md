@@ -2,9 +2,6 @@
 - 👀 I’m interested in Data Science
 - 🌱 I'm new on Github
 - 💞️ Hope!
+- My Blog: http://shawnsavour.xyz/
+- My Fanpage: https://www.facebook.com/ShawnSavour/
 - 📫 Connect with me! https://www.linkedin.com/in/congson99/
-
-<!---
-shawnsavour/shawnsavour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
