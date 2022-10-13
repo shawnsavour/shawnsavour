@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @shawnsavour
-- My Blog: http://shawnsavour.xyz/
-- My Fanpage: https://www.facebook.com/ShawnSavour/
-- 📫 Connect with me! https://www.linkedin.com/in/congson99/
